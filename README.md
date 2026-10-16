@@ -24,8 +24,8 @@ Desenvolvedor com mais de 6 anos de experiência em aplicações web e mobile co
 
 ### Tecnologias
 
-**Front-end:** `JavaScript` `TypeScript` `React` `React Native` `Expo` `HTML` `CSS`
-**Back-end:** `Node.js` `Express` `MongoDB` `API REST` `JWT`
+**Front-end:** `JavaScript` `TypeScript` `React` `React Native` `Expo` `HTML` `CSS` `Thymeleaf`
+**Back-end:** `Node.js` `Express` `MongoDB` `API REST` `JWT` `Java` `Springboot`
 **Ferramentas:** `Git` `Yarn` `npm`
 
 ### Projetos
@@ -36,4 +36,4 @@ Desenvolvedor com mais de 6 anos de experiência em aplicações web e mobile co
 
 ### Contato
 
-[LinkedIn](https://www.linkedin.com/in/iago-amaral-barbosa-b4b850159) · [gliago_iago@hotmail.com](mailto:gliago_iago@hotmail.com)
+[LinkedIn](https://www.linkedin.com/in/iago-amaral-barbosa-b4b850159) · [iago.a.barbosa@outlook.com](mailto:iago.a.barbosa@outlook.com)
