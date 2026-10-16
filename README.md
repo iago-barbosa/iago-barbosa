@@ -24,9 +24,9 @@ Desenvolvedor com mais de 6 anos de experiência em aplicações web e mobile co
 
 ### Tecnologias
 
-**Front-end:** `JavaScript` `TypeScript` `React` `React Native` `Expo` `HTML` `CSS` `Thymeleaf`
-**Back-end:** `Node.js` `Express` `MongoDB` `API REST` `JWT` `Java` `Springboot`
-**Ferramentas:** `Git` `Yarn` `npm`
+- **Front-end:** `JavaScript` `TypeScript` `React` `React Native` `Expo` `HTML` `CSS` `Thymeleaf`
+- **Back-end:** `Node.js` `Express` `MongoDB` `API REST` `JWT` `Java` `Springboot`
+- **Ferramentas:** `Git` `Yarn` `npm`
 
 ### Projetos
 
